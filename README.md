@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 4th year student at [MIPT](https://mipt.ru/english)
+- 🍋 Currently working on Recommendation systems at [Yandex.Lavka](https://lavka.yandex.ru/)
+
+## Blog posts
+
+ - 👨‍💻 [My internship experience at Yandex](https://habr.com/ru/articles/854740/)
+
+
+## Contacts
+<table>
+    <thead>
+      <tr>
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/linkedin.svg"></td>  
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram.svg"></td>  
+<!--       <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail.svg"></td>   -->
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+      <td><a href="https://www.linkedin.com/in/vlad-smirnov-37299231a/">Vlad Smirnov</a></td>  
+      <td><a href="https://t.me/karantonis/">@karantonis</a></td>  
+<!--       <td><a href="mailto:...">...</a></td> -->
+      </tr>
+    </tbody>
+</table>
