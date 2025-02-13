@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 - 🎓 4th year student at [MIPT](https://mipt.ru/english)
 - 🍋 Currently working on Recommendation systems at [Yandex.Lavka](https://lavka.yandex.ru/)
 
+<!--
 ## Blog posts
 
  - 👨‍💻 [My internship experience at Yandex](https://habr.com/ru/articles/854740/)
-
+-->
 
 ## Contacts
 <table>
