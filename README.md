@@ -1,4 +1,6 @@
+<!--
 ## Hi there 👋
+-->
 
 <!--
 **smirnovlad/smirnovlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +19,8 @@ Here are some ideas to get you started:
 
 <!--
 - 🎓 4th year student at [MIPT](https://mipt.ru/english)
--->
 - 🍋 Currently working on Recommendation systems at [Yandex.Lavka](https://lavka.yandex.ru/)
+-->
 
 <!--
 ## Blog posts
