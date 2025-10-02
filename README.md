@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <table>
     <thead>
       <tr>
-<!--       <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/linkedin.svg"></td>   -->
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/linkedin.svg"></td>  
       <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram.svg"></td>  
 <!--       <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail.svg"></td>   -->
       </tr>
