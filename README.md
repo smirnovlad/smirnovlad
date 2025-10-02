@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     </thead>
     <tbody>
       <tr>
-<!--       <td><a href="https://www.linkedin.com/in/vlad-smirnov-37299231a/">Vlad Smirnov</a></td>   -->
+      <td><a href="https://www.linkedin.com/in/karantonisvs/">Vlad Smirnov</a></td>  
       <td><a href="https://t.me/karantonis/">@karantonis</a></td>  
 <!--       <td><a href="mailto:...">...</a></td> -->
       </tr>
