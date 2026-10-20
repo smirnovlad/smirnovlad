@@ -1,7 +1,6 @@
 ### Hi, I'm Vlad 👋
 
-AI researcher working on the safety and reliability of large language models and the agents built on
-them — uncertainty quantification, calibration, and reasoning. MSc researcher at MBZUAI. More at
+I work on making large language models more reliable — particularly in reasoning and multi-step agent systems — using uncertainty quantification, belief learning, and adaptive computation: how models assess evidence, recognize uncertainty, and decide when to reason further, verify, or stop. MSc researcher at MBZUAI. More at
 [smirnovlad.com](https://smirnovlad.com).
 
 ## Contacts
